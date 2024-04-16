@@ -2,4 +2,4 @@
 - 👀 I’m interested in creating software to help the masses.
 - 🌱 I’m currently learning Typescript and NextJS.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me; here.
+- 📫 How to reach me: here.
